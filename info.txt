@@ -1,0 +1,13 @@
+Instrukcja kompilacji programu
+
+W celu skompilowanie programu nale¿y otworzyæ dowolny kompilator jêzyka C. Procedura zostanie opisana dla
+Dev-C++. Lokalizujemy folder, w którym znajduje siê projekt. Uruchamiamy wy¿ej wymieniony kompilator.
+Nastêpnie wybieramy z lewego górnego rogu opcjê File -> Open. Teraz wchodzimy do podkatalogu source w
+folderze z projektem. Szukamy pliku o nazwie Kalkulator (typ pliku to Dev-C++ Project File). Zaznaczamy go i
+klikamy otwórz. Naszym oczom powinna ukazaæ sie funkcja g³ówna main. Po lewej stronie mo¿emy sprawdziæ
+wszystkie pliki Ÿród³owe wchodz¹ce w sk³ad projektu. Teraz przytrzymuj¹c klawisz Ctrl nasikamy F9. Wyœwietli siê
+okienko ze statusem Done i czasem kompilacji. Mo¿na tu tez sprawdziæ iloœæ ewentualnych b³êdów oraz ostrze¿eñ.
+W naszym przypadku obie te wartoœci bêd¹ wynosiæ zero. Mo¿emy zamkn¹æ okno. Kompillacja programu
+zakoñczy³a siê sukcesem!
+Program kompiluje siê w czasie oko³o 0.14 sekundy. Czas ten mo¿e sie nieznacznie ró¿niæ w zale¿noœci od
+konkretnego komputera. Nie wystepuj¹ ¿adne ostrze¿enia
